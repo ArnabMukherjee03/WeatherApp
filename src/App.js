@@ -1,8 +1,8 @@
+import Home from "./Weather/Home";
+
 const App = ()=>{
   return(
-    <h1>
-      Hello World
-    </h1>
+    <Home/>
   )
 }
 
